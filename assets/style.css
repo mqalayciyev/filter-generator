@@ -1,0 +1,20 @@
+.pixel {
+    display: inline-block;
+    background-color: #000;
+    width: 50px;
+    height: 50px;
+  }
+  
+  .filterDetail {
+    font-family: "Consolas", "Menlo", "Ubuntu Mono", monospace;
+  }
+
+  table{
+      margin: auto;
+      max-width: 800px;
+      width: 100%;
+  }
+
+  input{
+    border: 1px solid black;
+  }
